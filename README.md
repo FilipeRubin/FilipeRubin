@@ -2,7 +2,7 @@
 **`Game Developer`**
 
 Hello! 👋
-My name is Filipe, I'm a 25 years old Brazilian and I'm graduated in games development. My main interests are game development with Godot, graphics programming with C++ and back-end development with C#/Node.js.
+My name is Filipe, I'm a 25 years old Brazilian and I'm graduated in game development. My main interests are game development with Godot, graphics programming with C++ and back-end development with C#/Node.js.
 
 # Technologies
 <img
