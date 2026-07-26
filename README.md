@@ -1,5 +1,5 @@
-# 🎮 Filipe Rubin
-**`Game Developer`**
+# Filipe Rubin
+**`Computer Science student and game developer`**
 
 Hello! 👋
 My name is Filipe, I'm a 25 years old Computer Science student from Brazil and I'm graduated in game development. My main interests are game development with Godot, graphics programming with C++ and back-end development with C#/Node.js.
